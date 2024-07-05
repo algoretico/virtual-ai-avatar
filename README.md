@@ -12,7 +12,7 @@ This is the output of my AI avatar chat project, using Google speech recognition
 
 The code repo is covering the AI-chat interface only (yellow blocks), not the lipsync generation (in green) or the avatar creation and rendering (in red), which are done in 3rd-party software.
 
-![code_structure_diagram](https://github.com/algoretico/virtual-ai-avatar/assets/53292656/f0951fe9-be56-4551-ada4-06ef4d8e9a43)
+![code_structure_diagram](https://github.com/alexdjulin/virtual-ai-avatar/assets/53292656/f0951fe9-be56-4551-ada4-06ef4d8e9a43)
 
 ## Installation
 Clone the project, create a virtual environment, activate it and install all the modules listed in the requirements file.
